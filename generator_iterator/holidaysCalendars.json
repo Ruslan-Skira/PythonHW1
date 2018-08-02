@@ -1,0 +1,4533 @@
+{
+ "kind": "calendar#calendarList",
+ "etag": "\"p334fpoekk7jtm0g\"",
+ "nextPageToken": "Ej8KNHU6Z2NhbCtncm91cDovL3Nwb3J0cy9jcGJsXzEyMzQ3XyU0NnVib24rJTQ3dWFyZGlhbnMQyPzh1KHn2wI=",
+ "items": [
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529667964289000\"",
+   "id": "hubert.nills@gmail.com",
+   "summary": "hubert.nills@gmail.com",
+   "timeZone": "Europe/Kiev",
+   "colorId": "14",
+   "backgroundColor": "#9fe1e7",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "owner",
+   "defaultReminders": [
+    {
+     "method": "popup",
+     "minutes": 30
+    }
+   ],
+   "notificationSettings": {
+    "notifications": [
+     {
+      "type": "eventCreation",
+      "method": "email"
+     },
+     {
+      "type": "eventChange",
+      "method": "email"
+     },
+     {
+      "type": "eventCancellation",
+      "method": "email"
+     },
+     {
+      "type": "eventResponse",
+      "method": "email"
+     }
+    ]
+   },
+   "primary": true,
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415209638000\"",
+   "id": "#contacts@group.v.calendar.google.com",
+   "summary": "Contacts",
+   "timeZone": "Europe/Kiev",
+   "colorId": "13",
+   "backgroundColor": "#92e1c0",
+   "foregroundColor": "#000000",
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415233475000\"",
+   "id": "en.ad#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Andorra",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415345449000\"",
+   "id": "en.ae#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in United Arab Emirates",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415229847000\"",
+   "id": "en.af#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Afghanistan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415236077000\"",
+   "id": "en.ag#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Antigua and Barbuda",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415234921000\"",
+   "id": "en.ai#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Anguilla",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415230472000\"",
+   "id": "en.al#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Albania",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415467832000\"",
+   "id": "en.am#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Armenia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415234355000\"",
+   "id": "en.ao#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Angola",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415236891000\"",
+   "id": "en.ar#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Argentina",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415232999000\"",
+   "id": "en.as#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in American Samoa",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415469108000\"",
+   "id": "en.australian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Australia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415476006000\"",
+   "id": "en.austrian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Austria",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415470351000\"",
+   "id": "en.aw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Aruba",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415476922000\"",
+   "id": "en.az#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Azerbaijan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415495125000\"",
+   "id": "en.ba#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bosnia and Herzegovina",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415483851000\"",
+   "id": "en.bb#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Barbados",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415473606000\"",
+   "id": "en.bd#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bangladesh",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415488370000\"",
+   "id": "en.be#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Belgium",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415509124000\"",
+   "id": "en.bf#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Burkina Faso",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415480443000\"",
+   "id": "en.bh#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bahrain",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415510096000\"",
+   "id": "en.bi#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Burundi",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415490578000\"",
+   "id": "en.bj#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Benin",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668362726000\"",
+   "id": "en.bl#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saint Barthélemy",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415491499000\"",
+   "id": "en.bm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bermuda",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415503779000\"",
+   "id": "en.bn#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Brunei Darussalam",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415496315000\"",
+   "id": "en.bo#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bolivia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415501159000\"",
+   "id": "en.brazilian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Brazil",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415478044000\"",
+   "id": "en.bs#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bahamas",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415492773000\"",
+   "id": "en.bt#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bhutan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415508062000\"",
+   "id": "en.bulgarian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Bulgaria",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415499246000\"",
+   "id": "en.bw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Botswana",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415480443000\"",
+   "id": "en.by#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Belarus",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415482096000\"",
+   "id": "en.bz#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Belize",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415513074000\"",
+   "id": "en.canadian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Canada",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415356104000\"",
+   "id": "en.cd#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in The Democratic Republic of the Congo",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415519030000\"",
+   "id": "en.cf#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Central African Republic",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415538649000\"",
+   "id": "en.cg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Congo",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415365346000\"",
+   "id": "en.ch#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Switzerland",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415532034000\"",
+   "id": "en.china#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in China",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415460440000\"",
+   "id": "en.christian#holiday@group.v.calendar.google.com",
+   "summary": "Christian Holidays",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415542685000\"",
+   "id": "en.ci#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Côte d'Ivoire",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415540018000\"",
+   "id": "en.ck#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Cook Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415526171000\"",
+   "id": "en.cl#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Chile",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415515687000\"",
+   "id": "en.cm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Cameroon",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415528364000\"",
+   "id": "en.co#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Colombia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415541439000\"",
+   "id": "en.cr#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Costa Rica",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415543703000\"",
+   "id": "en.croatian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Croatia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415544932000\"",
+   "id": "en.cu#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Cuba",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415517078000\"",
+   "id": "en.cv#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Cape Verde",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415548861000\"",
+   "id": "en.cw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Curaçao",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415547358000\"",
+   "id": "en.cy#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Cyprus",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415550199000\"",
+   "id": "en.czech#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Czechia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415554220000\"",
+   "id": "en.danish#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Denmark",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415557654000\"",
+   "id": "en.dj#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Djibouti",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415556252000\"",
+   "id": "en.dm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Dominica",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415560867000\"",
+   "id": "en.do#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Dominican Republic",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668327883000\"",
+   "id": "en.dutch#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Netherlands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415231824000\"",
+   "id": "en.dz#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Algeria",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415562180000\"",
+   "id": "en.ec#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Ecuador",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415572656000\"",
+   "id": "en.ee#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Estonia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415563457000\"",
+   "id": "en.eg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Egypt",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415568452000\"",
+   "id": "en.er#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Eritrea",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415573595000\"",
+   "id": "en.et#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Ethiopia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415582520000\"",
+   "id": "en.finnish#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Finland",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415580648000\"",
+   "id": "en.fj#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Fiji",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415574653000\"",
+   "id": "en.fk#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Falkland Islands (Malvinas)",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415577818000\"",
+   "id": "en.fm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Federated States of Micronesia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415579161000\"",
+   "id": "en.fo#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Faroe Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415588002000\"",
+   "id": "en.french#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in France",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415589495000\"",
+   "id": "en.ga#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Gabon",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415614859000\"",
+   "id": "en.gd#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Grenada",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415592153000\"",
+   "id": "en.ge#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Georgia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415595565000\"",
+   "id": "en.german#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Germany",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415619867000\"",
+   "id": "en.gg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Guernsey",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415596749000\"",
+   "id": "en.gh#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Ghana",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415612138000\"",
+   "id": "en.gi#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Gibraltar",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415614015000\"",
+   "id": "en.gl#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Greenland",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415590842000\"",
+   "id": "en.gm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Gambia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415620779000\"",
+   "id": "en.gn#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Guinea",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415567136000\"",
+   "id": "en.gq#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Equatorial Guinea",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415613115000\"",
+   "id": "en.greek#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Greece",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415617775000\"",
+   "id": "en.gt#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Guatemala",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415616793000\"",
+   "id": "en.gu#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Guam",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415625353000\"",
+   "id": "en.gw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Guinea-Bissau",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415626294000\"",
+   "id": "en.gy#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Guyana",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415629750000\"",
+   "id": "en.hn#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Honduras",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415633555000\"",
+   "id": "en.hong_kong#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Hong Kong",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415627474000\"",
+   "id": "en.ht#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Haiti",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415634381000\"",
+   "id": "en.hungarian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Hungary",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415646965000\"",
+   "id": "en.im#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Isle of Man",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415636955000\"",
+   "id": "en.indian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in India",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415641247000\"",
+   "id": "en.indonesian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Indonesia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415639100000\"",
+   "id": "en.iq#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Iraq",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415645648000\"",
+   "id": "en.ir#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Islamic Republic of Iran",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415641247000\"",
+   "id": "en.irish#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Ireland",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415636955000\"",
+   "id": "en.is#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Iceland",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415462064000\"",
+   "id": "en.islamic#holiday@group.v.calendar.google.com",
+   "summary": "Muslim Holidays",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415650947000\"",
+   "id": "en.italian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Italy",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529667989988000\"",
+   "id": "en.japanese#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Japan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529667995267000\"",
+   "id": "en.je#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Jersey",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415648131000\"",
+   "id": "en.jewish#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Israel",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529667988936000\"",
+   "id": "en.jm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Jamaica",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668000242000\"",
+   "id": "en.jo#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Jordan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415461424000\"",
+   "id": "en.judaism#holiday@group.v.calendar.google.com",
+   "summary": "Jewish Holidays",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668001331000\"",
+   "id": "en.ke#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Kenya",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668003586000\"",
+   "id": "en.kg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Kyrgyzstan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415513074000\"",
+   "id": "en.kh#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Cambodia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668002376000\"",
+   "id": "en.ki#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Kiribati",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415531051000\"",
+   "id": "en.km#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Comoros",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668371020000\"",
+   "id": "en.kn#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saint Kitts and Nevis",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415552953000\"",
+   "id": "en.kp#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Democratic People's Republic of Korea",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668003290000\"",
+   "id": "en.kw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Kuwait",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415522516000\"",
+   "id": "en.ky#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Cayman Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668000793000\"",
+   "id": "en.kz#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Kazakhstan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668005438000\"",
+   "id": "en.la#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Lao People's Democratic Republic",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668005848000\"",
+   "id": "en.latvian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Latvia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668107801000\"",
+   "id": "en.lb#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Lebanon",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668369193000\"",
+   "id": "en.lc#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saint Lucia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668110089000\"",
+   "id": "en.li#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Liechtenstein",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668110607000\"",
+   "id": "en.lithuanian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Lithuania",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415427913000\"",
+   "id": "en.lk#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Sri Lanka",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668108828000\"",
+   "id": "en.lr#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Liberia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668108274000\"",
+   "id": "en.ls#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Lesotho",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668111273000\"",
+   "id": "en.lu#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Luxembourg",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668109662000\"",
+   "id": "en.ly#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Libya",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668145496000\"",
+   "id": "en.ma#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Morocco",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668117383000\"",
+   "id": "en.malaysia#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Malaysia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668132178000\"",
+   "id": "en.mc#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Monaco",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668127769000\"",
+   "id": "en.md#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Moldova",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668137225000\"",
+   "id": "en.me#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Montenegro",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668125252000\"",
+   "id": "en.mexican#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Mexico",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415450770000\"",
+   "id": "en.mf#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saint Martin (French part)",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668115848000\"",
+   "id": "en.mg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Madagascar",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668120118000\"",
+   "id": "en.mh#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Marshall Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415357895000\"",
+   "id": "en.mk#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in The Former Yugoslav Republic of Macedonia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668118962000\"",
+   "id": "en.ml#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Mali",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668143408000\"",
+   "id": "en.mm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Myanmar",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668134711000\"",
+   "id": "en.mn#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Mongolia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668111785000\"",
+   "id": "en.mo#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Macao",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668335235000\"",
+   "id": "en.mp#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Northern Mariana Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668120977000\"",
+   "id": "en.mq#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Martinique",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668121741000\"",
+   "id": "en.mr#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Mauritania",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668138556000\"",
+   "id": "en.ms#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Montserrat",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668119668000\"",
+   "id": "en.mt#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Malta",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668123192000\"",
+   "id": "en.mu#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Mauritius",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668118074000\"",
+   "id": "en.mv#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Maldives",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668116588000\"",
+   "id": "en.mw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Malawi",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668140746000\"",
+   "id": "en.mz#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Mozambique",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668324379000\"",
+   "id": "en.na#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Namibia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668330238000\"",
+   "id": "en.nc#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in New Caledonia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668332578000\"",
+   "id": "en.ne#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Niger",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668331121000\"",
+   "id": "en.new_zealand#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in New Zealand",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668333389000\"",
+   "id": "en.ng#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Nigeria",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668331661000\"",
+   "id": "en.ni#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Nicaragua",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668335970000\"",
+   "id": "en.norwegian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Norway",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668326893000\"",
+   "id": "en.np#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Nepal",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668325459000\"",
+   "id": "en.nr#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Nauru",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668337347000\"",
+   "id": "en.om#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Oman",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415463875000\"",
+   "id": "en.orthodox_christianity#holiday@group.v.calendar.google.com",
+   "summary": "Orthodox Holidays",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668340342000\"",
+   "id": "en.pa#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Panama",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668343738000\"",
+   "id": "en.pe#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Peru",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415584427000\"",
+   "id": "en.pf#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in French Polynesia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668341336000\"",
+   "id": "en.pg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Papua New Guinea",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668349609000\"",
+   "id": "en.philippines#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Philippines",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668337849000\"",
+   "id": "en.pk#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Pakistan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415449543000\"",
+   "id": "en.pm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saint Pierre and Miquelon",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668345308000\"",
+   "id": "en.polish#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Poland",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668347123000\"",
+   "id": "en.portuguese#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Portugal",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668351082000\"",
+   "id": "en.pr#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Puerto Rico",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668338953000\"",
+   "id": "en.pw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Palau",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668342922000\"",
+   "id": "en.py#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Paraguay",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668354187000\"",
+   "id": "en.qa#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Qatar",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668360288000\"",
+   "id": "en.re#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Réunion",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668358004000\"",
+   "id": "en.romanian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Romania",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415438369000\"",
+   "id": "en.rs#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Serbia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668360288000\"",
+   "id": "en.russian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Russian Federation",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668365022000\"",
+   "id": "en.rw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Rwanda",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415430155000\"",
+   "id": "en.sa#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in South Africa",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415441435000\"",
+   "id": "en.saudiarabian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saudi Arabia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415431508000\"",
+   "id": "en.sb#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Solomon Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415437699000\"",
+   "id": "en.sc#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Seychelles",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415374838000\"",
+   "id": "en.sd#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Sudan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668367132000\"",
+   "id": "en.sh#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saint Helena, Ascension and Tristan da Cunha",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415436181000\"",
+   "id": "en.singapore#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Singapore",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415436920000\"",
+   "id": "en.sl#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Sierra Leone",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415434946000\"",
+   "id": "en.slovak#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Slovakia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415434124000\"",
+   "id": "en.slovenian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Slovenia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415444705000\"",
+   "id": "en.sm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in San Marino",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415439295000\"",
+   "id": "en.sn#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Senegal",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415430673000\"",
+   "id": "en.so#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Somalia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668355931000\"",
+   "id": "en.south_korea#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Republic of Korea",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415429263000\"",
+   "id": "en.spain#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Spain",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415371492000\"",
+   "id": "en.sr#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Suriname",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415429654000\"",
+   "id": "en.ss#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in South Sudan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415442105000\"",
+   "id": "en.st#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Sao Tome and Principe",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415564928000\"",
+   "id": "en.sv#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in El Salvador",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415369508000\"",
+   "id": "en.swedish#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Sweden",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415435351000\"",
+   "id": "en.sx#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Sint Maarten (Dutch part)",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415367116000\"",
+   "id": "en.sy#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Syrian Arab Republic",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415374838000\"",
+   "id": "en.sz#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Swaziland",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415363270000\"",
+   "id": "en.taiwan#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Taiwan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415349725000\"",
+   "id": "en.tc#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Turks and Caicos Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415525532000\"",
+   "id": "en.td#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Chad",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415353222000\"",
+   "id": "en.tg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Togo",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415359808000\"",
+   "id": "en.th#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Thailand",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415362079000\"",
+   "id": "en.tj#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Tajikistan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415354753000\"",
+   "id": "en.tl#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Timor-Leste",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415350140000\"",
+   "id": "en.tm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Turkmenistan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415351324000\"",
+   "id": "en.tn#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Tunisia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415352568000\"",
+   "id": "en.to#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Tonga",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415351889000\"",
+   "id": "en.tt#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Trinidad and Tobago",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415350677000\"",
+   "id": "en.turkish#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Turkey",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415347431000\"",
+   "id": "en.tv#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Tuvalu",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415338006000\"",
+   "id": "en.tz#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in United Republic of Tanzania",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415346155000\"",
+   "id": "en.ug#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Uganda",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415345024000\"",
+   "id": "en.uk#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in United Kingdom",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1506960852296000\"",
+   "id": "en.ukrainian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Ukraine",
+   "timeZone": "Europe/Kiev",
+   "summaryOverride": "Holidays in Ukraine",
+   "colorId": "7",
+   "backgroundColor": "#42d692",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415337390000\"",
+   "id": "en.usa#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in United States",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415336744000\"",
+   "id": "en.uy#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Uruguay",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415336169000\"",
+   "id": "en.uz#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Uzbekistan",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415628736000\"",
+   "id": "en.va#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Holy See (Vatican City State)",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415446079000\"",
+   "id": "en.vc#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Saint Vincent and the Grenadines",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415334905000\"",
+   "id": "en.ve#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Venezuela",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415499246000\"",
+   "id": "en.vg#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in British Virgin Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415346758000\"",
+   "id": "en.vi#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in U.S. Virgin Islands",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415333223000\"",
+   "id": "en.vietnamese#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Vietnam",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415335474000\"",
+   "id": "en.vu#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Vanuatu",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415332368000\"",
+   "id": "en.wf#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Wallis and Futuna",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415448021000\"",
+   "id": "en.ws#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Samoa",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415245846000\"",
+   "id": "en.ye#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Yemen",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529668131472000\"",
+   "id": "en.yt#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Mayotte",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415244941000\"",
+   "id": "en.zm#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Zambia",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529415244087000\"",
+   "id": "en.zw#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Zimbabwe",
+   "timeZone": "Europe/Kiev",
+   "colorId": "8",
+   "backgroundColor": "#16a765",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669756405000\"",
+   "id": "ht3jlfaac5lfd6263ulfh4tql8@group.calendar.google.com",
+   "summary": "Phases of the Moon",
+   "timeZone": "Europe/Kiev",
+   "colorId": "18",
+   "backgroundColor": "#b99aff",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669639606000\"",
+   "id": "as_12346_%4camigo+%4donkeys#sports@group.v.calendar.google.com",
+   "summary": "Lamigo Monkeys",
+   "timeZone": "Europe/Kiev",
+   "colorId": "24",
+   "backgroundColor": "#a47ae2",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669638094000\"",
+   "id": "as_12347_%45-%44%41+%52hinos#sports@group.v.calendar.google.com",
+   "summary": "E-DA Rhinos",
+   "timeZone": "Europe/Kiev",
+   "colorId": "16",
+   "backgroundColor": "#4986e7",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669644776000\"",
+   "id": "as_12348_%55ni-%50resident+7-%45leven+%4cions#sports@group.v.calendar.google.com",
+   "summary": "Uni-President 7-Eleven Lions",
+   "timeZone": "Europe/Kiev",
+   "colorId": "15",
+   "backgroundColor": "#9fc6e7",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669640546000\"",
+   "id": "as_12377_%4cotte+%47iants#sports@group.v.calendar.google.com",
+   "summary": "Lotte Giants",
+   "timeZone": "Europe/Kiev",
+   "colorId": "18",
+   "backgroundColor": "#b99aff",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669643562000\"",
+   "id": "as_12379_%53amsung+%4cions#sports@group.v.calendar.google.com",
+   "summary": "Samsung Lions",
+   "timeZone": "Europe/Kiev",
+   "colorId": "22",
+   "backgroundColor": "#f691b2",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669643056000\"",
+   "id": "as_12420_%50erth+%48eat#sports@group.v.calendar.google.com",
+   "summary": "Perth Heat",
+   "timeZone": "Europe/Kiev",
+   "colorId": "3",
+   "backgroundColor": "#f83a22",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669637341000\"",
+   "id": "as_26425_%43hina+%53tars#sports@group.v.calendar.google.com",
+   "summary": "China Stars",
+   "timeZone": "Europe/Kiev",
+   "colorId": "17",
+   "backgroundColor": "#9a9cff",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669636403000\"",
+   "id": "as_27073_%43anberra+%43avalry#sports@group.v.calendar.google.com",
+   "summary": "Canberra Cavalry",
+   "timeZone": "Europe/Kiev",
+   "colorId": "21",
+   "backgroundColor": "#cca6ac",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669638915000\"",
+   "id": "as_27074_%46ortitudo+%42aseball+%42ologna#sports@group.v.calendar.google.com",
+   "summary": "Fortitudo Baseball Bologna",
+   "timeZone": "Europe/Kiev",
+   "colorId": "12",
+   "backgroundColor": "#fad165",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669646080000\"",
+   "id": "as_7911_%59omiuri+%47iants#sports@group.v.calendar.google.com",
+   "summary": "Yomiuri Giants",
+   "timeZone": "Europe/Kiev",
+   "colorId": "22",
+   "backgroundColor": "#f691b2",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669643987000\"",
+   "id": "as_7918_%54ohoku+%52akuten+%47olden+%45agles#sports@group.v.calendar.google.com",
+   "summary": "Tohoku Rakuten Golden Eagles",
+   "timeZone": "Europe/Kiev",
+   "colorId": "2",
+   "backgroundColor": "#d06b64",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669661605000\"",
+   "id": "cpbl_12345_%43hinatrust+%42rothers#sports@group.v.calendar.google.com",
+   "summary": "Chinatrust Brothers",
+   "timeZone": "Europe/Kiev",
+   "colorId": "9",
+   "backgroundColor": "#7bd148",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669664531000\"",
+   "id": "cpbl_12346_%4camigo+%4donkeys#sports@group.v.calendar.google.com",
+   "summary": "Lamigo Monkeys",
+   "timeZone": "Europe/Kiev",
+   "colorId": "20",
+   "backgroundColor": "#cabdbf",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1529669662205000\"",
+   "id": "cpbl_12347_%46ubon+%47uardians#sports@group.v.calendar.google.com",
+   "summary": "Fubon Guardians",
+   "timeZone": "Europe/Kiev",
+   "colorId": "24",
+   "backgroundColor": "#a47ae2",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "eventHangout"
+    ]
+   }
+  }
+ ]
+}

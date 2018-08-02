@@ -1,0 +1,194 @@
+{
+  "search_params": {
+    "currency_id": 2,
+    "currency_name": "UAH",
+    "currency_simbol": "\u20b4",
+    "q": "115906",
+    "customer_id": 1173,
+    "server_query_time": 0.08492159843444824
+  },
+  "num_of_products": 1,
+  "num_of_offers": 22,
+  "warehouses": [],
+  "main_warehouse_id": null,
+  "results": [
+    {
+      "article": "115906",
+      "brand": "CARGO",
+      "name": "\u0413\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440",
+      "images": {
+        "thumb": null,
+        "3d": null,
+        "gallery": []
+      },
+      "offers": [
+        {
+          "warehouse_id": 94,
+          "quantity": "1",
+          "uuid": "6bfc81db-d849-477d-80ca-cc1ab79ad716",
+          "price": 6506.46,
+          "delivery": "1"
+        }
+      ]
+    },
+    {
+      "article": "115 906",
+      "brand": "SACHS",
+      "name": "\u0410\u043c\u043e\u0440\u0442\u0438\u0437\u0430\u0442\u043e\u0440 \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, DB208-316",
+      "images": {
+        "thumb": "https://dev-api.stemsc.com/files_media/td_foto/SACHS/115906_1.JPG",
+        "3d": "https://dev-api.stemsc.com/files_media/td_foto/SACHS/115906_1.JPG",
+        "gallery": []
+      },
+      "offers": [
+        {
+          "warehouse_id": 3,
+          "quantity": "-",
+          "uuid": "25a475f8-a72c-464e-a67d-66b4bffe2405",
+          "price": 1253.1,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 4,
+          "quantity": "-",
+          "uuid": "406ec158-89e6-4eb8-b14f-ff56b18a50b8",
+          "price": 1253.1,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 5,
+          "quantity": "-",
+          "uuid": "ebee4b29-bcc5-4c83-b602-35851cec870e",
+          "price": 1253.1,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 63,
+          "quantity": "2",
+          "uuid": "7351fb72-0402-409a-8690-ddddc0dcdfac",
+          "price": 1472.37,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 74,
+          "quantity": "2",
+          "uuid": "fbdf2510-2b35-4d03-80ca-a7838774391a",
+          "price": 1473.32,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 66,
+          "quantity": ">5",
+          "uuid": "e49a36f8-6f5b-43e0-8123-c174df5e48b3",
+          "price": 1472.37,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 91,
+          "quantity": ">5",
+          "uuid": "25e573b8-1abd-4113-8c59-f00b06201414",
+          "price": 1473.15,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 94,
+          "quantity": ">5",
+          "uuid": "6fcfeec2-5079-49fb-b17a-83754b5f30e0",
+          "price": 1473.15,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 95,
+          "quantity": "2",
+          "uuid": "760e11d0-2088-4fce-b37a-bedac6411f19",
+          "price": 1473.15,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 85,
+          "quantity": "5",
+          "uuid": "8b899c90-1f46-4232-a35e-c29aea886b21",
+          "price": 1500.91,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 71,
+          "quantity": ">5",
+          "uuid": "839bebe4-a351-43f0-861d-3e85d0b54bed",
+          "price": 1542.65,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 103,
+          "quantity": "4",
+          "uuid": "d8f5591e-9567-4c3b-93d7-b7c2f1f7117d",
+          "price": 1542.65,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 104,
+          "quantity": "3",
+          "uuid": "ae07230c-aadf-4529-adb6-9cc93544e59b",
+          "price": 1542.65,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 102,
+          "quantity": "2",
+          "uuid": "20989751-fb3a-4961-8851-8ead4e5ca32a",
+          "price": 1542.65,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 60,
+          "quantity": "5",
+          "uuid": "5522e470-2f63-4a76-973e-53a7d914e2a0",
+          "price": 1342.18,
+          "delivery": "2"
+        },
+        {
+          "warehouse_id": 108,
+          "quantity": "4",
+          "uuid": "a500348b-d891-41ac-acff-68e1194834d5",
+          "price": 1542.65,
+          "delivery": "2"
+        },
+        {
+          "warehouse_id": 107,
+          "quantity": "2",
+          "uuid": "6005076c-6bd8-4d2d-bda5-2f1971980298",
+          "price": 1542.65,
+          "delivery": "2"
+        },
+        {
+          "warehouse_id": 105,
+          "quantity": "2",
+          "uuid": "c2857d14-b5f3-4124-93ef-f06813f1d669",
+          "price": 1542.65,
+          "delivery": "2"
+        },
+        {
+          "warehouse_id": 106,
+          "quantity": "2",
+          "uuid": "d25f82a9-4514-47a1-b3c1-bfc371881fb6",
+          "price": 1542.65,
+          "delivery": "2"
+        },
+        {
+          "warehouse_id": 77,
+          "quantity": "5",
+          "uuid": "7658c6f8-2c20-4e8c-a823-71c73324373b",
+          "price": 1473.32,
+          "delivery": "3"
+        },
+        {
+          "warehouse_id": 69,
+          "quantity": "1",
+          "uuid": "b844f07c-fd39-4c55-bc9b-1ac38f200f24",
+          "price": 1585.43,
+          "delivery": "3"
+        }
+      ]
+    }
+  ]
+}

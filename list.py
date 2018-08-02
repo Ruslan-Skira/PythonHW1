@@ -58,6 +58,6 @@ diagTopRight = [test[i][i] for i in [c, c-1, c-2]]
 print(diagTopRight)
 
 #diagonal bottom left
-c
+
 
 

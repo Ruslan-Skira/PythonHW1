@@ -1,0 +1,15 @@
+{"location":
+{"domain":"dev-api.stemsc.com","origin":"https://dev-api.stemsc.com","path":"/Products/?search=35811","referrer":"https://dev-api.stemsc.com/Products/"}
+,"fields":
+[{"name":"search","legend":"","placeholder":"Поиск в таблице","tag_name":"input","input_type":"text","pop_id":73802,"param":"ignore","params":["ignore"],"category":"ignore","chosen_mapper":"global_mapper","section_hint":null,"lang":"uk","classes":"form-control"}],
+  "locale":"en-us",
+  "errors":["IFRAME_DETECTED"],"expandArrayIndexes":false,"features":{"record_satisfaction":true,"shopify_payment":true,"field_focus_event":true,"scroll_position_fixed":true},
+  "fill_id":"b51283c0-0d0b-461a-821e-76beb41f97bf"}
+
+
+
+
+
+
+{"search_params":{"currency_id":2,"currency_name":"UAH","currency_simbol":"\u20b4","q":"115906","customer_id":1173,"server_query_time":0.05600309371948242},"num_of_products":0,"num_of_offers":0,"warehouses":[{"id":118,"name":"\u041b\u043e\u0441\u043a","abbr":"ST-M"}],"main_warehouse_id":null,"results":[]}
+{"detail":"\u041c\u0435\u0442\u043e\u0434 \"GET\" \u043d\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d."}

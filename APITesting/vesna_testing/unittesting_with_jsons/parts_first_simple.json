@@ -1,0 +1,89 @@
+{
+  "search_params": {
+    "currency_id": 2,
+    "currency_name": "UAH",
+    "currency_simbol": "\u20b4",
+    "q": "36947",
+    "customer_id": 1173,
+    "server_query_time": 0.42786431312561035
+  },
+  "num_of_products": 2,
+  "num_of_offers": 6,
+  "warehouses": [],
+  "main_warehouse_id": null,
+  "results": [
+    {
+      "article": "36947",
+      "brand": "LEMFORDER",
+      "name": "\u041e\u043f\u043e\u0440\u0430 \u0430\u043c\u043e\u0440\u0442\u0438\u0437\u0430\u0442\u043e\u0440\u0430 \u0433\u0443\u043c\u043e\u043c\u0435\u0442\u0430\u043b\u0435\u0432\u0430 \u0432 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0456",
+      "images": {
+        "thumb": null,
+        "3d": null,
+        "gallery": []
+      },
+      "offers": [
+        {
+          "warehouse_id": 91,
+          "quantity": ">5",
+          "uuid": "172109d3-d730-484c-9d50-75c1424aeec1",
+          "price": 127.82,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 94,
+          "quantity": "4",
+          "uuid": "1e692c00-bd14-46ab-bb63-055dcc08113a",
+          "price": 127.82,
+          "delivery": "1"
+        },
+        {
+          "warehouse_id": 69,
+          "quantity": "4",
+          "uuid": "09943e40-6fd6-4cf9-8790-520a6c808337",
+          "price": 131.87,
+          "delivery": "3"
+        }
+      ]
+    },
+    {
+      "article": "36947",
+      "brand": "MAPCO",
+      "name": "\u0412\u0442\u0443\u043b\u043a\u0430 \u0441\u0442\u0430\u0431\u0438\u043b. \u043f\u0435\u0440. \u043d\u0430\u0440\u0443\u0436. 13,5mm",
+      "images": {
+        "thumb": "https://dev-api.stemsc.com/files_media/td_foto/MAPCO/36947_2.JPG",
+        "3d": "https://dev-api.stemsc.com/files_media/td_foto/MAPCO/36947_2.JPG",
+        "gallery": []
+      },
+      "offers": [
+        {
+          "warehouse_id": 3,
+          "quantity": ">5",
+          "uuid": "2ec957bd-21b4-447f-97bf-fc939995588d",
+          "price": 13.47,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 4,
+          "quantity": ">5",
+          "uuid": "1ae5afab-77fa-4f11-8211-362e8fdbadfe",
+          "price": 13.47,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 5,
+          "quantity": "-",
+          "uuid": "93e09fe3-2d66-4a34-947f-7fe05f220a8a",
+          "price": 13.47,
+          "delivery": "0"
+        },
+        {
+          "warehouse_id": 5,
+          "quantity": "-",
+          "uuid": "93e09fe3-2d66-4a34-947f-7fe05f220a8a",
+          "price": 13.47,
+          "delivery": "0"
+        }
+      ]
+    }
+  ]
+}
